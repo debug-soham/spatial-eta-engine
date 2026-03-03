@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+joblib
+h3>=4.0.0
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+folium
+streamlit-folium
+plotly
+lightgbm
+
